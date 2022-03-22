@@ -19,145 +19,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e81397d-baac-4b7b-bc2f-1d518c6eccaf" name="Default Changelist" comment="Desafio Digital Innovation One - Santander Bootcamp | Mobile Developer">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/androidTest/java/br/com/carmadeprojects/todolist/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/java/br/com/carmadeprojects/todolist/datasourse/TaskDataSource.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/java/br/com/carmadeprojects/todolist/extensions/AppExtensions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/java/br/com/carmadeprojects/todolist/model/Task.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/java/br/com/carmadeprojects/todolist/ui/AddTaskActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/java/br/com/carmadeprojects/todolist/ui/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/java/br/com/carmadeprojects/todolist/ui/TaskListAdapter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/drawable/ic__calendar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/drawable/ic__navigate_before.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/drawable/ic_add.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/drawable/ic_empty_state.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/drawable/ic_more.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/drawable/ic_time.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/layout/activity_add_task.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/layout/empty_state.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/layout/item_task.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/menu/popup_menu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/app/src/test/java/br/com/carmadeprojects/todolist/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/To Do List/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hiring-Coders" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Processo AlphaEdtech/microbit-Genius-1.hex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Processo AlphaEdtech/microbit-Jogo-do-palito-1.hex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Processo AlphaEdtech/microbit-joago-do-palito-2.hex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projeto pagina simples/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projeto pagina simples/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projeto pagina simples/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.resources/.history/49/90a80875d9d2001b1aabfb8b298df201" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.resources/.history/f0/30d4b673d9d2001b1aabfb8b298df201" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.resources/.projects/projetos/.indexes/af/history.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.resources/.projects/projetos/.indexes/e4/history.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.resources/.projects/projetos/org.eclipse.jdt.core/state.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.urischeme.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.jdt.core/1991655398.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.jdt.core/4219581550.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2021/6/26/refactorings.history" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2021/6/26/refactorings.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.16.0.20200318-1040.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.ui.editors/dialog_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.ui.intro/dialog_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/.metadata/version.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/Maior de idade/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/Maior de idade/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/Maior de idade/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/Maior de idade/bin/IFSimples" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/Maior de idade/src/IFSimples" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/projetos/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/projetos/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/projetos/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/projetos/bin/module-info.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/projetos/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos java/tryCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gerenciador-tarefas-react" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@C:\Users\joaom\.android\avd\Pixel_3_API_30.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[72b70563]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -175,7 +44,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1vXKErsfWGI39wuMixYRfLuysE4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -184,6 +53,7 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -196,6 +66,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
   </component>
   <component name="RecentsManager">
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
@@ -206,9 +77,7 @@
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="To_do_list.app" />
@@ -264,9 +133,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -298,67 +165,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Desafio Digital Innovation One - Santander Bootcamp | Mobile Developer" />
     <option name="LAST_COMMIT_MESSAGE" value="Desafio Digital Innovation One - Santander Bootcamp | Mobile Developer" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="220" y="202" key="#Inspections" timestamp="1626704244546">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state x="220" y="202" key="#Inspections/0.0.2560.1040@0.0.2560.1040" timestamp="1626704244546" />
-    <state x="797" y="266" key="#PSD" timestamp="1626718395061">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state x="797" y="266" key="#PSD/0.0.2560.1040@0.0.2560.1040" timestamp="1626718395061" />
-    <state x="1071" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1626791496300">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state x="1071" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1626791496300" />
-    <state x="960" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1627488558687">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state x="960" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1627488558687" />
-    <state x="1059" y="311" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1626787492720">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state x="1059" y="311" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1626787492720" />
-    <state x="853" y="0" width="853" height="346" key="AVDManager" timestamp="1626703716617">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state x="853" y="0" width="853" height="346" key="AVDManager/0.0.2560.1040@0.0.2560.1040" timestamp="1626703716617" />
-    <state x="860" y="275" key="AndroidCreateResourceDirectoryDialog" timestamp="1626797639740">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state x="860" y="275" key="AndroidCreateResourceDirectoryDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1626797639740" />
-    <state x="860" y="275" key="AndroidCreateResourceFileDialog" timestamp="1627490745904">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state x="860" y="275" key="AndroidCreateResourceFileDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1627490745904" />
-    <state x="1124" y="310" key="AndroidCreateXmlResourceDialog" timestamp="1627489753929">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state x="1124" y="310" key="AndroidCreateXmlResourceDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1627489753929" />
-    <state width="2517" height="281" key="GridCell.Tab.0.bottom" timestamp="1626725048135">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state width="2517" height="281" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1626725048135" />
-    <state width="2517" height="281" key="GridCell.Tab.0.center" timestamp="1626725048135">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state width="2517" height="281" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1626725048135" />
-    <state width="2517" height="281" key="GridCell.Tab.0.left" timestamp="1626725048134">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state width="2517" height="281" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1626725048134" />
-    <state width="2517" height="281" key="GridCell.Tab.0.right" timestamp="1626725048135">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state width="2517" height="281" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1626725048135" />
-    <state width="600" height="428" key="javadoc.popup" timestamp="1626800722329">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state width="600" height="428" key="javadoc.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1626800722329" />
-    <state x="1003" y="291" key="refactoring.ChangeSignatureDialog" timestamp="1626802422725">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state x="1003" y="291" key="refactoring.ChangeSignatureDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1626802422725" />
   </component>
 </project>
